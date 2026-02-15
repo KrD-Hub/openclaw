@@ -106,3 +106,10 @@ List only real risks for this PR. Add/remove entries as needed. If none, write `
 
 - Risk:
   - Mitigation:
+
+## Collaboration Guardrails
+
+- [ ] No direct push to `main` (PR flow only)
+- [ ] At least one approval from `@KrD-Hub` or `@Rifelimo`
+- [ ] All review conversations resolved before merge
+- [ ] PR stays focused on one task / one concern
